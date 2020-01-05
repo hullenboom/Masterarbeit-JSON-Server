@@ -1,3 +1,4 @@
+[
 {
   "ProduktId": "1",
   "ProduktName": "Nutella",
@@ -5,8 +6,7 @@
   "ProduktPreis": "2,79",
   "ProduktBeschreibung": "Nuss-Nougat-Creme",
   "ProduktMenge": "450g"
-}
-
+},
 {
   "ProduktId": "2",
   "ProduktName": "Chipsfrisch",
@@ -14,8 +14,7 @@
   "ProduktPreis": "1,39",
   "ProduktBeschreibung": "Kartoffelchips",
   "ProduktMenge": "175g"
-}
-
+},
 {
   "ProduktId": "3",
   "ProduktName": "Lätta",
@@ -24,3 +23,4 @@
   "ProduktBeschreibung": "Brotaufstrich",
   "ProduktMenge": "500g"
 }
+]

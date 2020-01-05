@@ -1,4 +1,4 @@
-[
+{
 {
   "ProduktId": "1",
   "ProduktName": "Nutella",
@@ -23,4 +23,4 @@
   "ProduktBeschreibung": "Brotaufstrich",
   "ProduktMenge": "500g"
 }
-]
+}

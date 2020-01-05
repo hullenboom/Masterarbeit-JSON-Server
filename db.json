@@ -2,7 +2,7 @@
   "products":
   [
     {
-    "ProduktId": "1",
+    "Id": "1",
     "ProduktName": "Nutella",
     "ProdukMarke": "Ferrero",
     "ProduktPreis": "2,79",
@@ -10,7 +10,7 @@
     "ProduktMenge": "450g"
     },
     {
-    "ProduktId": "2",
+    "Id": "2",
     "ProduktName": "Chipsfrisch",
     "ProdukMarke": "funny-frisch",
     "ProduktPreis": "1,39",
@@ -18,7 +18,7 @@
     "ProduktMenge": "175g"
     },
     {
-    "ProduktId": "3",
+    "Id": "3",
     "ProduktName": "Lätta",
     "ProdukMarke": "Lätta",
     "ProduktPreis": "1,79",

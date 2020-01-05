@@ -4,7 +4,7 @@
     {
     "id": 1,
     "ProduktName": "Nutella",
-    "ProdukMarke": "Ferrero",
+    "ProduktMarke": "Ferrero",
     "ProduktPreis": "2,79€",
     "ProduktBeschreibung": "Nuss-Nougat-Creme",
     "ProduktMenge": "450g"
@@ -12,7 +12,7 @@
     {
     "id": 2,
     "ProduktName": "Chipsfrisch",
-    "ProdukMarke": "funny-frisch",
+    "ProduktMarke": "funny-frisch",
     "ProduktPreis": "1,39€",
     "ProduktBeschreibung": "Kartoffelchips",
     "ProduktMenge": "175g"
@@ -20,7 +20,7 @@
     {
     "id": 3,
     "ProduktName": "Lätta",
-    "ProdukMarke": "Lätta",
+    "ProduktMarke": "Lätta",
     "ProduktPreis": "1,79€",
     "ProduktBeschreibung": "Brotaufstrich",
     "ProduktMenge": "500g"

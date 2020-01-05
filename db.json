@@ -1,26 +1,29 @@
-{
-{
-  "ProduktId": "1",
-  "ProduktName": "Nutella",
-  "ProdukMarke": "Ferrero",
-  "ProduktPreis": "2,79",
-  "ProduktBeschreibung": "Nuss-Nougat-Creme",
-  "ProduktMenge": "450g"
-},
-{
-  "ProduktId": "2",
-  "ProduktName": "Chipsfrisch",
-  "ProdukMarke": "funny-frisch",
-  "ProduktPreis": "1,39",
-  "ProduktBeschreibung": "Kartoffelchips",
-  "ProduktMenge": "175g"
-},
-{
-  "ProduktId": "3",
-  "ProduktName": "Lätta",
-  "ProdukMarke": "Lätta",
-  "ProduktPreis": "1,79",
-  "ProduktBeschreibung": "Brotaufstrich",
-  "ProduktMenge": "500g"
-}
+{ 
+  "products":
+  [
+    {
+    "ProduktId": "1",
+    "ProduktName": "Nutella",
+    "ProdukMarke": "Ferrero",
+    "ProduktPreis": "2,79",
+    "ProduktBeschreibung": "Nuss-Nougat-Creme",
+    "ProduktMenge": "450g"
+    },
+    {
+    "ProduktId": "2",
+    "ProduktName": "Chipsfrisch",
+    "ProdukMarke": "funny-frisch",
+    "ProduktPreis": "1,39",
+    "ProduktBeschreibung": "Kartoffelchips",
+    "ProduktMenge": "175g"
+    },
+    {
+    "ProduktId": "3",
+    "ProduktName": "Lätta",
+    "ProdukMarke": "Lätta",
+    "ProduktPreis": "1,79",
+    "ProduktBeschreibung": "Brotaufstrich",
+    "ProduktMenge": "500g"
+    }
+  ]
 }
